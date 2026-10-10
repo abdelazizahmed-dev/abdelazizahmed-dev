@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:0891B2&height=220&section=header&text=Abdelaziz%20Ahmed&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Software%20Engineer&descAlignY=58&descSize=20" width="100%" />
@@ -112,4 +112,4 @@ To grow into a capable software engineer by mastering the fundamentals, building
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:164E63,100:0F172A&height=100&section=footer" width="100%" />
 
 </div>
-```
+
